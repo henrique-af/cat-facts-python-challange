@@ -11,4 +11,4 @@ SELECT
 FROM 
     `{project}.{dataset}.cat_facts`
 WHERE 
-    RAND() < 0.1; 
+    RAND() < 0.1;
